@@ -1,0 +1,11 @@
+{
+  "name": "patientsapi",
+  "version": "1.0.0",
+  "description": "Returns dummy patient details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Rai",
+  "license": "ISC"
+}
